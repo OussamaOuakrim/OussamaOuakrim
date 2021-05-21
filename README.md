@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OussamaOuakrim
--  I m computer science student at ENSIAS UNIVERSITY
+-  I m computer science student at ENSIAS SCHOOL
 - 👀  I’m currently learning different programmming languages such as python C java javascript php 
 - 🌱  I got here because github is a wide big community includes experienced people 
 - 💞️  I’m looking to learn from others and collaberate 
